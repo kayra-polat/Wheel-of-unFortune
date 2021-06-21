@@ -1,5 +1,5 @@
 # Wheel-of-unFortune
-Java AWT/Swing implementation of Wheel of Fortune game written with baturalp-kızıltan[https://github.com/baturalp-kiziltan/Wheel-of-unFortune].
+Java AWT/Swing implementation of Wheel of Fortune game written with [Baturalp Kızıltan](https://github.com/baturalp-kiziltan/Wheel-of-unFortune).
 
 ### A few example about our project
 ![1](https://user-images.githubusercontent.com/60671090/107878059-4a68a100-6ee1-11eb-9617-3c5e495419ea.png)
